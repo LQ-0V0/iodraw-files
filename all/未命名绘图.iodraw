@@ -110,6 +110,9 @@
         <mxCell id="TfAZc951fXBRgqYHCJWu-31" value="处理事务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="475" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jFNsv51VpUyutCQHywyd-1" value="个性化推荐算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
