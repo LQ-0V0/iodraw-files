@@ -68,7 +68,7 @@
         <mxCell id="TfAZc951fXBRgqYHCJWu-17" value="新闻推荐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TfAZc951fXBRgqYHCJWu-18" value="POST请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TfAZc951fXBRgqYHCJWu-18" value="航天员管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-19" value="GET请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
