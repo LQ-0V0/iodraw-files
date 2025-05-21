@@ -29,7 +29,7 @@
         <mxCell id="TfAZc951fXBRgqYHCJWu-4" value="用户界面&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TfAZc951fXBRgqYHCJWu-5" value="Ajax交互" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="TfAZc951fXBRgqYHCJWu-5" value="管理员界面" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfAZc951fXBRgqYHCJWu-7" target="TfAZc951fXBRgqYHCJWu-8">
