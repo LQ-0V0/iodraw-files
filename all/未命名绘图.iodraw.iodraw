@@ -26,7 +26,7 @@
         <mxCell id="TfAZc951fXBRgqYHCJWu-3" value="Element Plus、DataV、Echarts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="100" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfAZc951fXBRgqYHCJWu-4" value="Web服务器&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="TfAZc951fXBRgqYHCJWu-4" value="用户界面&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-5" value="Ajax交互" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
