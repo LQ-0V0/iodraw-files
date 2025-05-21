@@ -84,16 +84,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-23" value="知识图谱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-24" value="数据存储、清洗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-25" value="数据分析处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-26" value="个性化推荐算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-27" value="&lt;div&gt;数据库&lt;/div&gt;MySQL&lt;div&gt;Neo4j&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="460" width="60" height="60" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="510" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jFNsv51VpUyutCQHywyd-1" value="个性化推荐算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
