@@ -80,9 +80,6 @@
         <mxCell id="TfAZc951fXBRgqYHCJWu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.223;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TfAZc951fXBRgqYHCJWu-4" target="TfAZc951fXBRgqYHCJWu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfAZc951fXBRgqYHCJWu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TfAZc951fXBRgqYHCJWu-5" target="TfAZc951fXBRgqYHCJWu-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-23" value="知识图谱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="380" width="60" height="30" as="geometry" />
         </mxCell>
