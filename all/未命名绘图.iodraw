@@ -69,7 +69,7 @@
           <mxGeometry x="320" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-18" value="航天员管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfAZc951fXBRgqYHCJWu-19" value="新闻管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="245" width="60" height="30" as="geometry" />
